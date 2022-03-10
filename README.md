@@ -1,3 +1,7 @@
+# Web application recreating the Amazon interface, using React, Redux and Firebase
+
+Link to web app [my_amazon](https://clone-835c9.web.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
